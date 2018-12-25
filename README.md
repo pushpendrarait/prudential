@@ -1,2 +1,0 @@
-# prudential
-test assignment
