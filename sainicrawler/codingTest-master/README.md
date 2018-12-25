@@ -1,6 +1,6 @@
 **Installtion/Build Steps**
     
-1. Please clone Source code from git URL <code>https://github.com/karankaw/codingTest</code>
+1. Please clone Source code from git URL <code>prudential/sainicrawler</code>
 
 + Open Eclipse and do following steps
 + Window -> Preferences -> Run/Debug -> Console -> "Limit console output"<br/>
